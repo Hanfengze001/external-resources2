@@ -1,14 +1,1 @@
-{
-    "updater": {
-        "default": {
-            "provider": "github",
-            "repo": "openblockcc/external-resources-v2"
-        },
-        "cn" : {
-            "provider": "spaces",
-            "name": "openblock",
-            "path": "resource",
-            "region": "sgp1"
-        }
-    }
-}
+{"repository":"hanfengze001/external-resources2","version":"v0.9"}
